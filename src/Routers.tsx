@@ -1,7 +1,7 @@
 import React from 'react'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Layout, { LayoutNone } from './components/layout/Layout'
-import Home from './views/Home'
+import Home from './views/Home/Home'
 import About from './views/About'
 import Signup from './views/Signup'
 
